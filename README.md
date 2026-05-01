@@ -206,12 +206,12 @@ Forecasting model predicts future sales trends for upcoming 15 days using histor
 
 ✔ Forecasting helps predict short-term future demand
 
-📷 Dashboard Preview
+# 📷 Dashboard Preview
 
-## Main Dashboard
+***Dashboard 1***
 ![Dashboard preview](Dashboard1.png)
 
-## Sales Forecast Dashboard
+***Dashboard 2***
 ![Dashboard preview](DashBoard2.png)
 
 # 🚀 Conclusion
