@@ -209,10 +209,10 @@ Forecasting model predicts future sales trends for upcoming 15 days using histor
 📷 Dashboard Preview
 
 ## Main Dashboard
-![Dashboard preview](Dashboard 1.png)
+![Dashboard preview](Dashboard1.png)
 
 ## Sales Forecast Dashboard
-![Dashboard preview](DashBoard 2.png)
+![Dashboard preview](DashBoard2.png)
 
 # 🚀 Conclusion
 
